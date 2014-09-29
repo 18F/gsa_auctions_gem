@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/18F/gsa_auctions_gem.svg)](https://travis-ci.org/18F/gsa_auctions_gem)
 
+[![Code Climate](https://codeclimate.com/github/18F/gsa_auctions_gem/badges/gpa.svg)](https://codeclimate.com/github/18F/gsa_auctions_gem)
+
 # GsaAuctions
 
 Ruby access to the GSA Auctions API.
