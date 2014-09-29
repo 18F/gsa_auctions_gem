@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/18F/gsa_auctions_gem.svg)](https://travis-ci.org/18F/gsa_auctions_gem)
+
 # GsaAuctions
 
 Ruby access to the GSA Auctions API.
